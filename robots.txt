@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /shop.html
+Disallow: /thank-you.html
+
+Sitemap: https://remnantproject.com/sitemap.xml
